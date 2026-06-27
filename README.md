@@ -1,2 +1,41 @@
-# 1b3a22e8-machine-learning-ai-ops-repo
-Your ML models are generating insights every day, but nobody knows if they're working until something breaks. Stop manually checking dashboards and emailing reports—automate your entire ML ops workflow.  The Machine Learning &amp; AI Ops Report Generation and Delivery Automation N8N Workflow eliminates manual reporting bottlenecks by automatically moni
+# Machine Learning & AI Ops Report Generation and Delivery Automation N8N Workflow
+
+> Workflow for Machine Learning
+
+Your ML models are generating insights every day, but nobody knows if they're working until something breaks. Stop manually checking dashboards and emailing reports—automate your entire ML ops workflow.
+
+The Machine Learning & AI Ops Report Generation and Delivery Automation N8N Workflow eliminates manual reporting bottlenecks by automatically...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/6oUbJ1cLl0bW8FG8nGcZq11)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
